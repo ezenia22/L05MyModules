@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="C346">C346 Android Programming</string>
+    <string name="C218">C218 UI/UX Design for Apps</string>
+    <string name="title"><u>View  Module  Details</u></string>
+    <string name="back">BACK</string>
+</resources>
